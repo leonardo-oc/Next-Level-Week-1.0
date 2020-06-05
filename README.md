@@ -7,6 +7,7 @@
 </p>
 
 _________
+### Instrutor: [Mayk Brito](https://github.com/maykbrito)
 
 ### 🤔 Mas o que é isso? 
 A NLW é uma experiência online criada pela Rocketseat de uma semana com muito conteúdo prático, desafios, hacks e um projeto que nos ajudam a avançar para o próximo nível e impulsionar a nossa carreira.
@@ -14,9 +15,6 @@ A NLW é uma experiência online criada pela Rocketseat de uma semana com muito 
 ### ✨ Sobre o projeto:
 <img src="img/logo.svg">
 O Ecoleta é um projeto criado para gerenciar o processo de coleta de lixo nas cidades. Com ele, é possível ajudar pessoas a encontrarem pontos de coleta de uma forma mais eficiente.
-  
-### 👀 Meu aprendizado até aqui:
-(dia 1) - Hoje é o primeiro dia do NLW, onde já desenvolvemos a home page do projeto utilizando HTML e CSS. Apesar de já ter conhecimento nessas duas tecnologias, eu pude revisar conceitos básicos e colocá-los em prática novamente. Tive a oportunidade de conhecer outros devs que estão participando do evento, compartilhar conhecimentos, ideias, etc.
  
 <h2 align="center"> 📷 Screenshot da home page do projeto: </h2>
 <p align="center">
@@ -24,4 +22,4 @@ O Ecoleta é um projeto criado para gerenciar o processo de coleta de lixo nas c
 </p>
 
 _________
-<h4 align="center"> O evento seguirá nos próximos dias para a continuação do desenvolvimento do projeto ❤ </h4>
+<h4 align="center"> <strong>By: Leonardo Oliveira™</strong> ❤ </h4>
